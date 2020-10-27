@@ -1,0 +1,23 @@
+{
+  "name": "learning-express-nodejs",
+  "version": "1.0.0",
+  "description": "Not a clue what to put in description",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nksacayan/learning-express-nodejs.git"
+  },
+  "author": "Nicholas Sacayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nksacayan/learning-express-nodejs/issues"
+  },
+  "homepage": "https://github.com/nksacayan/learning-express-nodejs#readme"
+}
